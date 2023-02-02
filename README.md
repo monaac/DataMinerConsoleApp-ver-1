@@ -1,0 +1,2 @@
+# DataMinerConsoleApp-ver-1
+This program uses the Random class from the System namespace to generate random numbers and the Stopwatch class from the System.Diagnostics namespace to keep track of the elapsed time. The program generates random phone numbers in a loop and continues until either 10,000 numbers have been generated or 2 hours have passed. The phone number format used in this example is "555-555-xxxx", where "xxxx" are random digits from 1000 to 9999. The elapsed time and the number of generated numbers are displayed at the end of the program.
